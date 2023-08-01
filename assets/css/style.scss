@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+}
+
+
+.container{
+    height: 100vh;
+    max-width: 0 auto;
+}
+header{display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    background-color: #f0f2f5;
+    .header-top{
+        .box{
+            background: #fff;
+            height: 350px;
+            width: 282px;
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: none;
+            p{
+                position: absolute;
+                color: rgba(0, 0, 255, 0.597);
+                font-size: 32px;
+    margin-top: -388px;
+    margin-left: -13px;
+   
+            }
+            .text1{
+               position: absolute;
+               margin-top: -300px;
+               font-size: 18px;
+            }
+            .text2{
+      .email{
+input{
+   
+    position: absolute;
+    margin: -102px -120px;
+    height: 32px;
+    width: 236px;
+    background-color: #fff;
+    border-radius: 6px;
+     padding: 14px 16px;
+}
+        }
+        .password{
+           .sifre{
+            position: absolute;
+            margin: -52px -122px;
+            height: 32px;
+            width: 236px;
+            border-radius: 6px;
+            padding: 14px 16px;
+            background-color: #fff;
+        }
+    
+        
+        
+    }
+            }
+        }
+        
+    }
+.login{
+    button{
+        margin: -6px -121px;
+        position: absolute;
+        width: 232px;
+        height: 34px;
+        background: #1877f2;
+        cursor: pointer;
+        font-size: 20px;
+       
+    }
+    }
+    .forget{
+        a{
+            position: absolute;
+        margin:40px -82px ;
+        border-bottom: 1px solid;
+        cursor: pointer;
+        }
+    }
+    .main{
+        .xett1{
+width: 1px;
+height: 1px;
+        }
+        .ya{
+            position: absolute;
+            margin-top: 70px;
+            margin-left: -15px;
+            border-bottom: 1px solid;
+        }
+    }
+    .creat{
+        button{
+            position: absolute;
+            margin: -75px 40px;
+            width: 194px;
+            height: 34px;
+            border-radius: 6px;
+            font-size: 19px;
+            cursor: pointer;
+            background-color: #42b72a;
+            border: none;
+        }
+    }
+}
+
+
